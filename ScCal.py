@@ -3,7 +3,7 @@ from tkinter.messagebox import *
 import re
 import math as mt
 root = Tk()
-root.title("Calculator by Sanisha")
+root.title("Calculator by Manas")
 
 val = str()
 Answers = ['0']
